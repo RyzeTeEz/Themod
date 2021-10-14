@@ -13,7 +13,7 @@ public class References {
 }
 
 
-/* Location:              C:\Users\nomap\Desktop\THE mod 1.0.jar!\fr\diskmth\literi\\utils\References.class
+/* Location:              C:\Users\oceli\Desktop\literiamod-1.0.jar!\fr\diskmth\literi\\utils\References.class
  * Java compiler version: 8 (52.0)
  * JD-Core Version:       1.1.3
  */

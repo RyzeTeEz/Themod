@@ -171,7 +171,7 @@
 /*     */ }
 
 
-/* Location:              C:\Users\nomap\Desktop\THE mod 1.0.jar!\fr\diskmth\literia\objects\entity\EntityPillerTNTPrimed.class
+/* Location:              C:\Users\oceli\Desktop\literiamod-1.0.jar!\fr\diskmth\literia\objects\entity\EntityPillerTNTPrimed.class
  * Java compiler version: 8 (52.0)
  * JD-Core Version:       1.1.3
  */
