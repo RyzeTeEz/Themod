@@ -1,0 +1,16 @@
+[
+{
+  "modid": "literiamod",
+  "name": "Mod Literia",
+  "description": "Mod du serveur pvp-faction Litéria",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Disk_MTH"],
+  "credits": "Mod Litéria créé par Disk_MTH#2401",
+  "logoFile": "assets/base/textures/logo/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

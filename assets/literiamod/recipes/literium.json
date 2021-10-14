@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        }
+    },
+    "result": {
+        "item": "literiamod:literium",
+        "count": 9
+    }
+}

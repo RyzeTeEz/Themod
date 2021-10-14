@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#i#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        },
+		"i": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "literiamod:speed_orb",
+        "count": 1
+    }
+}

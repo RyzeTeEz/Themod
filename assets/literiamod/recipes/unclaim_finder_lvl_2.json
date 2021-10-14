@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "ili",
+        "#i#"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        },
+		"l": {
+            "item": "minecraft:chest"
+        },
+		"i": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "literiamod:unclaim_finder_lvl_2",
+        "count": 1
+    }
+}

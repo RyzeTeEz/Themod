@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#i ",
+        " i "
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium"
+        },
+        "i": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "literiamod:literium_axe",
+		"count": 1
+    }
+}

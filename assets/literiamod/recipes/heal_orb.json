@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        }
+    },
+    "result": {
+        "item": "literiamod:heal_orb",
+        "count": 1
+    }
+}

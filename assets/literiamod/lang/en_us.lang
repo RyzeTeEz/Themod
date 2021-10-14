@@ -1,0 +1,105 @@
+//copper
+item.copper.name=§6Copper
+tile.copper_block.name=§6Copper block
+tile.copper_ore.name=§6Copper ore
+
+item.copper_sword.name=§6Copper sword
+item.copper_pickaxe.name=§6Copper pickaxe
+item.copper_axe.name=§6Copper axe
+item.copper_shovel.name=§6Copper shovel
+
+item.copper_helmet.name=§6Copper helmet
+item.copper_chestplate.name=§6Copper chestplate
+item.copper_legging.name=§6Copper legging
+item.copper_boots.name=§6Copper boots
+
+//tin
+item.tin.name=Tin
+tile.tin_block.name=Tin block
+tile.tin_ore.name=Tin ore
+
+item.tin_sword.name=Tin sword
+item.tin_pickaxe.name=Tin pickaxe
+item.tin_axe.name=Tin axe
+item.tin_shovel.name=Tin shovel
+
+item.tin_helmet.name=Tin helmet
+item.tin_chestplate.name=Tin chestplate
+item.tin_legging.name=Tin legging
+item.tin_boots.name=Tin boots
+
+//isolua
+item.isolua.name=§2Isolua
+tile.isolua_block.name=§2Isolua block
+tile.isolua_ore.name=§2Isolua ore
+tile.isolua_ladders.name=§2Isolua ladders
+
+item.isolua_sword.name=§2Isolua sword
+item.isolua_pickaxe.name=§2Isolua pickaxe
+item.isolua_axe.name=§2Isolua axe
+item.isolua_shovel.name=§2Isolua shovel
+item.isolua_hammer.name=§2Isolua hammer
+
+item.isolua_helmet.name=§2Isolua helmet
+item.isolua_chestplate.name=§2Isolua chestplate
+item.isolua_legging.name=§2Isolua legging
+item.isolua_boots.name=§2Isolua boots
+
+//literium
+item.literium.name=§9Literium
+tile.literium_block.name=§9Literium block
+tile.literium_ore.name=§9Literium ore
+
+item.literium_sword.name=§9Literium sword
+item.literium_pickaxe.name=§9Literium pickaxe
+item.literium_axe.name=§9Literium axe
+item.literium_shovel.name=§9Literium shovel
+item.literium_hoe.name=§9Literium hoe
+item.literium_hammer.name=§9Literium hammer
+item.literium_shears.name=§9Literium shears
+item.literium_bow.name=§9Literium bow
+item.literium_stick.name=§9Literium stick
+
+item.literium_helmet.name=§9Literium helmet
+item.literium_chestplate.name=§9Literium chestplate
+item.literium_legging.name=§9Literium legging
+item.literium_boots.name=§9Literium boots
+
+//demonite
+item.demonite.name=§dDemonite
+tile.demonite_block.name=§dDemonite block
+tile.demonite_ore.name=§dDemonite ore
+
+item.demonite_sword.name=§dDemonite sword
+item.demonite_pickaxe.name=§dDemonite pickaxe
+item.demonite_axe.name=§dDemonite axe
+item.demonite_shovel.name=§dDemonite shovel
+item.demonite_bow.name=§dDemonite bow
+item.demonite_stick.name=§dDemonite stick
+
+item.demonite_helmet.name=§dDemonite helmet
+item.demonite_chestplate.name=§dDemonite chestplate
+item.demonite_legging.name=§dDemonite legging
+item.demonite_boots.name=§dDemonite boots
+
+//orbs & sticks
+item.heal_orb.name=§4Heal §7orb
+item.speed_orb.name=§1Speed §7orb
+item.strenght_orb.name=§aStrenght §7orb
+item.legendary_orb.name=§4Leg§1end§aary §7orb
+
+item.heal_stick.name=§4Heal §7stick
+item.speed_stick.name=§1Speed §7stick
+item.strenght_stick.name=§aStrenght §7stick
+item.legendary_stick.name=§4Leg§1end§aary §7stick
+
+//other
+tile.piller_tnt.name=§8Piller TNT
+tile.cave_block.name=§7Cave block
+
+item.unclaim_finder_lvl_1.name=§2Unclaim finder lvl 1
+item.unclaim_finder_lvl_2.name=§4Unclaim finder lvl 2
+item.dynamite.name=§cDynamite
+
+itemGroup.literia_tab_1=§6Literia mod
+menu.play=Connect to Literia

@@ -1,0 +1,6 @@
+{
+    "parent": "literiamod:item/demonite_bow",
+    "textures": {
+        "layer0": "literiamod:items/demonite_bow_pulling_2"
+    }
+}

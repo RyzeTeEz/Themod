@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:copper"
+        }
+    },
+    "result": {
+        "item": "literiamod:copper_block",
+        "count": 1
+    }
+}

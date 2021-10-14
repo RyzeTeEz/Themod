@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium"
+        }
+    },
+    "result": {
+        "item": "literiamod:literium_legging",
+        "count": 1
+    }
+}

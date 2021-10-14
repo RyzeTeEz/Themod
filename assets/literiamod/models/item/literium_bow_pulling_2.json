@@ -1,0 +1,6 @@
+{
+    "parent": "literiamod:item/literium_bow",
+    "textures": {
+        "layer0": "literiamod:items/literium_bow_pulling_2"
+    }
+}

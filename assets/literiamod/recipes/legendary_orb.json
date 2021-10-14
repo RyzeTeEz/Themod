@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "i#l",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        },
+		"i": {
+            "item": "literiamod:literium_sword"
+        },
+		"l": {
+            "item": "literiamod:literium_pickaxe"
+        }
+    },
+    "result": {
+        "item": "literiamod:legendary_orb",
+        "count": 1
+    }
+}

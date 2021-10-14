@@ -1,0 +1,105 @@
+//copper
+item.copper.name=§6Copper
+tile.copper_block.name=§6Bloc de cuivre
+tile.copper_ore.name=§6Minerai de cuivre
+
+item.copper_sword.name=§6Eppée en cuivre
+item.copper_pickaxe.name=§6Pioche en cuivre
+item.copper_axe.name=§6Hache en cuivre
+item.copper_shovel.name=§6Pelle en cuivre
+
+item.copper_helmet.name=§6Casque en cuivre
+item.copper_chestplate.name=§6Plastron en cuivre
+item.copper_legging.name=§6Jambières en cuivre
+item.copper_boots.name=§6bottes en cuivre
+
+//tin
+item.tin.name=Tin
+tile.tin_block.name=Bloc d'étain
+tile.tin_ore.name=Minerai d'étain
+
+item.tin_sword.name=Eppée en étain
+item.tin_pickaxe.name=Pioche en étain
+item.tin_axe.name=Hache en étain
+item.tin_shovel.name=Pelle en étain
+
+item.tin_helmet.name=Casque en étain
+item.tin_chestplate.name=Plastron en étain
+item.tin_legging.name=Jambières en étain
+item.tin_boots.name=Bottes en étain
+
+//isolua
+item.isolua.name=§2Isolua
+tile.isolua_block.name=§2Bloc d'isolua
+tile.isolua_ore.name=§2Minerai d'isolua
+tile.isolua_ladders.name=§2Echelles en isolua
+
+item.isolua_sword.name=§2Eppée en isolua
+item.isolua_pickaxe.name=§2Pioche en isolua
+item.isolua_axe.name=§2Hache en isolua
+item.isolua_shovel.name=§2Pelle en isolua
+item.isolua_hammer.name=§2Hammer en isolua
+
+item.isolua_helmet.name=§2Casque en isolua
+item.isolua_chestplate.name=§2Plastron en isolua
+item.isolua_legging.name=§2Jambières en isolua
+item.isolua_boots.name=§2Bottes en isolua
+
+//literium
+item.literium.name=§9Literium
+tile.literium_block.name=§9bloc de literium
+tile.literium_ore.name=§9Minerai de literium
+
+item.literium_sword.name=§9Eppée en literium
+item.literium_pickaxe.name=§9Pioche en literium
+item.literium_axe.name=§9Hache en literium
+item.literium_shovel.name=§9Pioche en literium
+item.literium_hoe.name=§9Houe en literium
+item.literium_hammer.name=§9Hammer en literium
+item.literium_shears.name=§9Cisailles en literium
+item.literium_bow.name=§9Arc en literium
+item.literium_stick.name=§9Bâton de literium
+
+item.literium_helmet.name=§9Casque en literium
+item.literium_chestplate.name=§9Plastron en literium
+item.literium_legging.name=§9Jambières en literium
+item.literium_boots.name=§9Bottes en literium
+
+//demonite
+item.demonite.name=§dDemonite
+tile.demonite_block.name=§dBloc de demonite
+tile.demonite_ore.name=§dMinerai de demonite
+
+item.demonite_sword.name=§deppée en demonite
+item.demonite_pickaxe.name=§dPioche en demonite
+item.demonite_axe.name=§dHache en demonite
+item.demonite_shovel.name=§dPelle en demonite
+item.demonite_bow.name=§dArc en demonite
+item.demonite_stick.name=§dBâton de demonite
+
+item.demonite_helmet.name=§dCasque en demonite
+item.demonite_chestplate.name=§dPlastron en demonite
+item.demonite_legging.name=§dJambières en demonite
+item.demonite_boots.name=§dbottes en demonite
+
+//orbs & sticks
+item.heal_orb.name=§7Orbe de §4soin
+item.speed_orb.name=§7Orbe de §1vitesse
+item.strenght_orb.name=§7Orbe de §aforce
+item.legendary_orb.name=§7Orbe §4lég§1enda§aire
+
+item.heal_stick.name=§4Sceptre de soin
+item.speed_stick.name=§1Sceptre de vitesse
+item.strenght_stick.name=§aSceptre de force
+item.legendary_stick.name=§7Sceptre §4lég§1enda§aire
+
+//other
+tile.piller_tnt.name=§8TNT pilleur
+tile.cave_block.name=§7Cave block
+
+item.unclaim_finder_lvl_1.name=§2Unclaim finder lvl 1
+item.unclaim_finder_lvl_2.name=§4Unclaim finder lvl 2
+item.dynamite.name=§cDynamite
+
+itemGroup.literia_tab_1=§6Mod Literia
+menu.play=Jouer à Litéria

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        "#l#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gunpowder"
+        },
+		"i": {
+            "item": "minecraft:string"
+        },
+		"l": {
+            "item": "literiamod:isolua"
+        }
+    },
+    "result": {
+        "item": "literiamod:piller_tnt",
+        "count": 1
+    }
+}

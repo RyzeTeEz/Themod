@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "###",
+        "i i"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        },
+		"i": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "literiamod:cave_block",
+        "count": 1
+    }
+}

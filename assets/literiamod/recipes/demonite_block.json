@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:demonite"
+        }
+    },
+    "result": {
+        "item": "literiamod:demonite_block",
+        "count": 1
+    }
+}

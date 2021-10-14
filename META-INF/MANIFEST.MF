@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Mod Literia
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-10-03T18:34:30+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

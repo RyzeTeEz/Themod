@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " # ",
+        " i "
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:demonite"
+        },
+        "i": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "literiamod:demonite_sword",
+        "count": 1
+    }
+}

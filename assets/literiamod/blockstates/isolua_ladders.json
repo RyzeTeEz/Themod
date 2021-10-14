@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "literiamod:isolua_ladders" },
+        "facing=east":  { "model": "literiamod:isolua_ladders", "y": 90 },
+        "facing=south": { "model": "literiamod:isolua_ladders", "y": 180 },
+        "facing=west":  { "model": "literiamod:isolua_ladders", "y": 270 }
+    }
+}

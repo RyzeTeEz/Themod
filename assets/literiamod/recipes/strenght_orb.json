@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#i#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium_block"
+        },
+		"i": {
+            "item": "literiamod:literium_sword"
+        }
+    },
+    "result": {
+        "item": "literiamod:strenght_orb",
+        "count": 1
+    }
+}

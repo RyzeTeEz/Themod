@@ -1,0 +1,6 @@
+{
+	"variants": {
+		        "explode=false": { "model":"literiamod:piller_tnt" },
+                "explode=true": { "model":"literiamod:piller_tnt" }
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " il",
+        "# l",
+        " il"
+    ],
+    "key": {
+        "#": {
+            "item": "literiamod:literium"
+        },
+		"i": {
+            "item": "literiamod:demonite_stick"
+        },
+		"l": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "literiamod:demonite_bow",
+		"count": 1
+	}
+}

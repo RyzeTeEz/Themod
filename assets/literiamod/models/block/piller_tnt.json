@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "literiamod:blocks/piller_tnt_bottom",
+        "top": "literiamod:blocks/piller_tnt_top",
+        "side": "literiamod:blocks/piller_tnt_side"
+    }
+}
