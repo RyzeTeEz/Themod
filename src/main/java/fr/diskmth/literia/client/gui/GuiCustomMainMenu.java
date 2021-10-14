@@ -48,8 +48,8 @@ public class GuiCustomMainMenu extends GuiScreen {
 
       try {
          List list = Lists.newArrayList();
-         iresource = Minecraft.func_71410_x().func_110442_L().func_110536_a(SPLASH_TEXTS);
-         BufferedReader bufferedreader = new BufferedReader(new InputStreamReader(iresource.func_110527_b(), StandardCharsets.UTF_8));
+         iresource = Minecraft.getMinecraft().getResourceManager().getResource(SPLASH_TEXTS);
+         BufferedReader bufferedreader = new BufferedReader(new InputStreamReader(iresource.getInputStream(), StandardCharsets.UTF_8));
 
          String s;
          while((s = bufferedreader.readLine()) != null) {

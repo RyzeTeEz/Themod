@@ -31,7 +31,7 @@ public class Main {
 
    @EventHandler
    public static void preInit(FMLPreInitializationEvent e) throws Exception {
-      if (e.getSide().isClient() && !Minecraft.func_71410_x().field_71412_D.getPath().contains(".Literia")) {
+      if (e.getSide().isClient() && !Minecraft.getMinecraft().gameDir.getPath().contains(".Literia")) {
          ;
       }
 
