@@ -23,7 +23,7 @@ public class GuiUnclaimFinder extends Gui {
    final ResourceLocation UNCLAIM_FINDER_LVL_2 = new ResourceLocation("literiamod:textures/gui/unclaim_finder_lvl_2.png");
 
    public GuiUnclaimFinder() {
-      mc = Minecraft.func_71410_x();
+      mc = Minecraft.getMinecraft();
       this.fontRender = mc.field_71466_p;
    }
 
